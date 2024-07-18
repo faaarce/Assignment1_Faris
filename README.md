@@ -6,6 +6,7 @@ A Swift project for managing financial transactions. This project includes a `Tr
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Tech Stack](#tech-stack)
 - [License](#license)
 
 ## Features
